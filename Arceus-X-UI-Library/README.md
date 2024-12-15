@@ -4,8 +4,6 @@ This is a Roblox UI Library from Arceus X.
 
 Which is unofficial.
 
-Sample code can be viewed [here](https://github.com/AZYsGithub/Arceus-X-UI-Library/blob/main/sample.lua), feel free to use.
-
 ## Starting
 
 To use the Arceus X UI Library, follow these steps:
@@ -13,7 +11,7 @@ To use the Arceus X UI Library, follow these steps:
 1. Declare a `lib` variable and load the library by executing the following code:
 
 ```lua
-local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/Arceus-X-UI-Library/main/source.lua"))()
+local lib = loadstring(game:HttpGet("[https://raw.githubusercontent.com/AZYsGithub/Arceus-X-UI-Library/main/source.lua](https://raw.githubusercontent.com/BinbinvoGamingVNClone/LibAndUI/refs/heads/main/Arceus-X-UI-Library/source.lua)"))()
 ```
 
 2. Set the title for the UI using the following function:
