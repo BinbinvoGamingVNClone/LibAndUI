@@ -108,7 +108,7 @@ function lib:CreateWindow(title)
         Position = UDim2.new(0, 3, 0, 3),
         Size = UDim2.new(0, 20, 0, 20),
         BackgroundTransparency = 1,
-        Image = "rbxassetid://8904334671"
+        Image = "rbxassetid://76736587179581"
     }), Create("UICorner", {
         CornerRadius = UDim.new(0, 3)
     })})
